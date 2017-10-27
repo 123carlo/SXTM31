@@ -13,4 +13,9 @@ Hola Mundo el que camica por caminos estrechos
 tiene mala vida
 >>>>>>> 5477c88daee6c590917ef91031f7aa1b0e5af1c5
 
+<<<<<<< HEAD
 "Krax creando un comentario"
+=======
+"Nosotros modificamos el mundo"
+"Nosotros modificamos el mundo2"
+>>>>>>> Krax
