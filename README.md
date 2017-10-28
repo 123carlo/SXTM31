@@ -19,3 +19,6 @@ tiene mala vida
 "Nosotros modificamos el mundo"
 "Nosotros modificamos el mundo2"
 >>>>>>> Krax
+ 
+
+------------anderson nascon modificando el archivo README.md.
