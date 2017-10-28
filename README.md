@@ -22,4 +22,7 @@ tiene mala vida
  
 
 ------------anderson nascon modificando el archivo README.md.
+<<<<<<< HEAD
 ----------america de cali vamos los rojos
+=======
+>>>>>>> 3e19095e785f8e11d37063038235b35d5562818c
